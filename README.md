@@ -83,6 +83,6 @@ if __name__ == "__main__":
         print("Chatbot:", result["answer"])
 ```
 ### OUTPUT:
-
+![image alt](https://github.com/Ragasusanth/genai-pdf-qa-chatbot/blob/0aba9fee4210378763df2b63c1e59050305fb695/OUTPUT%20FOR%20EX03.png)
 ### RESULT:
 The PDF-based question-answering chatbot was successfully developed using LangChain. The system was able to process the PDF document, retrieve relevant information, and generate accurate answers to user queries based on the document’s content.
